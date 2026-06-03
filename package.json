@@ -1,0 +1,20 @@
+{
+  "name": "custom-map-creator",
+  "version": "0.1.0",
+  "description": "A vanilla Node.js backend for the custom map creator project.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "node",
+    "backend",
+    "map",
+    "custom-map-creator"
+  ],
+  "author": "",
+  "license": "MIT"
+}
